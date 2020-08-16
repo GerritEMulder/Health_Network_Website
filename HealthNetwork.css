@@ -1,0 +1,28 @@
+/*
+	Styles for the health website.
+*/
+
+body {
+	font-family: 'Courier New', cursive;
+	font-size: 20px;
+	background-color: Aqua;
+	color: DarkSlateGray;
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 42px;
+}
+select {
+		font-family: 'Courier New', cursive;
+		background-color: white;
+}
+
+table, th, td {
+        vertical-align: top;
+}
+
+p {
+	border-top: 3px solid blue;
+	border-bottom: 3px solid blue;
+}
